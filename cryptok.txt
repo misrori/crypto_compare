@@ -1,0 +1,4 @@
+name,symbol,blogger
+SwissBorg,CHSB,That Martiny Guy
+Orchid,OXT,That Martiny Guy
+Utrust,UTK,That Martiny Guy 
